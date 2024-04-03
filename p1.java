@@ -9,4 +9,7 @@ class A {
     public void m3(){
         
     }
+    public void additon(){
+      System.out.println("Additon : "+(3+3));
+    }
 }
