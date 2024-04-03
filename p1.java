@@ -3,4 +3,7 @@ class A {
     {
       System.out.println("m1-called...");
     }
+    public void m3(){
+        
+    }
 }
